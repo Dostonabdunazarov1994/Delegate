@@ -1,0 +1,19 @@
+C:\Users\Acer\source\repos\Лабораторная 3\Лабораторная 3\bin\Debug\Лабораторная 3.exe.config
+C:\Users\Acer\source\repos\Лабораторная 3\Лабораторная 3\bin\Debug\Лабораторная 3.exe
+C:\Users\Acer\source\repos\Лабораторная 3\Лабораторная 3\bin\Debug\Лабораторная 3.pdb
+C:\Users\Acer\source\repos\Лабораторная 3\Лабораторная 3\obj\Debug\Лабораторная 3.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\Лабораторная 3\Лабораторная 3\obj\Debug\Лабораторная_3.Form1.resources
+C:\Users\Acer\source\repos\Лабораторная 3\Лабораторная 3\obj\Debug\Лабораторная_3.Properties.Resources.resources
+C:\Users\Acer\source\repos\Лабораторная 3\Лабораторная 3\obj\Debug\Лабораторная 3.csproj.GenerateResource.cache
+C:\Users\Acer\source\repos\Лабораторная 3\Лабораторная 3\obj\Debug\Лабораторная 3.exe
+C:\Users\Acer\source\repos\Лабораторная 3\Лабораторная 3\obj\Debug\Лабораторная 3.pdb
+D:\rabstol\ОП-лабы\Лабораторная 3\Лабораторная 3\bin\Debug\Лабораторная 3.exe.config
+D:\rabstol\ОП-лабы\Лабораторная 3\Лабораторная 3\bin\Debug\Лабораторная 3.exe
+D:\rabstol\ОП-лабы\Лабораторная 3\Лабораторная 3\bin\Debug\Лабораторная 3.pdb
+D:\rabstol\ОП-лабы\Лабораторная 3\Лабораторная 3\obj\Debug\Лабораторная 3.csprojAssemblyReference.cache
+D:\rabstol\ОП-лабы\Лабораторная 3\Лабораторная 3\obj\Debug\Лабораторная_3.Form1.resources
+D:\rabstol\ОП-лабы\Лабораторная 3\Лабораторная 3\obj\Debug\Лабораторная_3.Properties.Resources.resources
+D:\rabstol\ОП-лабы\Лабораторная 3\Лабораторная 3\obj\Debug\Лабораторная 3.csproj.GenerateResource.cache
+D:\rabstol\ОП-лабы\Лабораторная 3\Лабораторная 3\obj\Debug\Лабораторная 3.csproj.CoreCompileInputs.cache
+D:\rabstol\ОП-лабы\Лабораторная 3\Лабораторная 3\obj\Debug\Лабораторная 3.exe
+D:\rabstol\ОП-лабы\Лабораторная 3\Лабораторная 3\obj\Debug\Лабораторная 3.pdb
